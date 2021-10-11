@@ -9,8 +9,8 @@ Tetszőleges operációs rendszer
 
 ### Telepítés/futtatás
 -Repository klónozása
-- .sln buildelése
-- .exe megnyitása
+-.sln buildelése
+-.exe megnyitása
 
 ## Készítő
 [danielberes5](https://github.com/danielberes5)
